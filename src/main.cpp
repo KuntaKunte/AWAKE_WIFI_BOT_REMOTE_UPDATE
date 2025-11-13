@@ -5,10 +5,10 @@
 #include <Preferences.h>
 
 // ====== USER CONFIGURATION ======
-const char* ssid = "YourRouterWiFiName";
-const char* password = "YourRouterPassword";
+const char* ssid = "Jumbo 53";         // Replace with your SSID 
+const char* password = "19831987"; // Replace with your Wi-Fi password
 
-#define BOTtoken "123456789:ABCDefGhIJKlmNoPqRstUvWxYZ"  // Replace with your bot token
+#define BOTtoken "8115605103:AAEcvmpCmvnZIjZdmDjDjTkHITY6InmHWV0"  // Replace with your Bot Token
 #define CHAT_ID  "8580089820"                            // Replace with your chat ID
 
 // ====== GLOBAL VARIABLES ======
