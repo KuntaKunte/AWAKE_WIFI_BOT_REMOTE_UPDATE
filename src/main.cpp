@@ -7,12 +7,12 @@
 
 // ====== USER CONFIGURATION ======
 // WiFi credentials for network connection
-const char* ssid = "Chokoe";          // Wi-Fi SSID
-const char* password = "19831158";      // Wi-Fi password
+const char* ssid = " ";          // Wi-Fi SSID
+const char* password = " ";      // Wi-Fi password
 
 // Telegram bot credentials
-#define BOTtoken "8115605103:AAEcvmpCmvnZIjZdmDjDjTkHITY6InmHWV0"  // Bot token from BotFather
-#define CHAT_ID "8580089820"  // Your Telegram chat ID for receiving messages
+#define BOTtoken " "  // Bot token from BotFather
+#define CHAT_ID " "  // Your Telegram chat ID for receiving messages
 
 // ====== GLOBAL VARIABLES ======
 // Timing intervals (loaded from flash memory)
